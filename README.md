@@ -13,15 +13,22 @@ Preview :
 
 
 
-https://github.com/steprtm/mobile2uas/assets/129705802/7d0d1d8b-2dd1-4f5e-b5fc-636954dff5d5
+
+https://github.com/IDOYGAMING/uas_mobile_kelompok/assets/130022256/68061877-92bc-4d21-b759-5704cff7ee83
+
+
+
 
 
 
 ## Postman
 ### POST
-![Postman_GRQy2UWHfI](https://github.com/steprtm/mobile2uas/assets/129705802/7dd67201-cf2a-4338-9a2d-b4e2c77f62c9)
+![SS 1](https://github.com/IDOYGAMING/uas_mobile_kelompok/assets/130022256/78d772fc-1688-445f-b609-7a85bb56d8c9)
+
 ### GET
-![Postman_to0uZLqnG9](https://github.com/steprtm/mobile2uas/assets/129705802/81e67d2c-38db-4e04-bb94-432cc02d7360)
+![SS 2](https://github.com/IDOYGAMING/uas_mobile_kelompok/assets/130022256/6f21f621-bec3-4b0d-ac75-fe5f2588cc24)
+
 ### PUT
-![Postman_iCfSGuIKb1](https://github.com/steprtm/mobile2uas/assets/129705802/13aa60b3-12a1-4e98-8b61-a70a1a83ad6b)
+![SS 3](https://github.com/IDOYGAMING/uas_mobile_kelompok/assets/130022256/1035d065-3a10-49c7-a58e-55d9f0173d9b)
+
 
